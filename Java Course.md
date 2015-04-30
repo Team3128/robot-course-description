@@ -1,5 +1,5 @@
 # Robot Java Class
-In recent years, it has become clear that, with bi-weekly meetings, we *cannot* teach people with no Java experiance how to code for the robot in a single year, so we have split our programming courses into two levels.  The first level teaches basic java at about the same level as the school's AP Computer Science course, and the second course builds on these schools and teaches people how to write Java on the robot.
+In recent years, it has become clear that, with bi-weekly meetings, we *cannot* teach people with no Java experiance how to code for the robot in a single year, so we have split our programming courses into two levels.  The first level teaches basic java at about the same level as the school's AP Computer Science course, and the second course builds on this knowledge and teaches people how to write Java on the robot.
 
 Even with this division, class time is still short for the amount you are expected to learn.  So, we expect all students to try and write programs on their own time.  Trust me, you will learn a huge amount by doing this.
 
