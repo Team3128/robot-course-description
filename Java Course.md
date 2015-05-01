@@ -5,19 +5,19 @@ Even with this division, class time is still short for the amount you are expect
 
 We will also give students from both courses plenty of practice in the form of weekly coding challenges.  Additionally, students in course 2 will work on the robot code during (and before) build season, and course 1 students will have several, non-robot java projects to do such as the scouting app.
 
-## Requirements
+## Requirements for the Course
 
-We only have five or six computers total for programmers to use.  If you have your own laptop (or desktop [:)](https://xkcd.com/541/), we ask you to please bring it to club.
+We only have five or six computers total for programmers to share.  If you have your own laptop (or desktop [:)](https://xkcd.com/541/), we ask you to please bring it to meetings.
 
 ### AP Computer Science
-If you have taken AP CompSci, you should already know everything that you need to take this class.
+If you have taken AP CompSci, you should already know everything that you need to take the second course.
 ### Everyone Else
-If you have not taken AP Computer Science, in order to enter, you need to understand intermediate Java and the Eclipse IDE. 
+If you have not taken AP Computer Science, in order to learn java for the robot, you need to understand intermediate Java and the Eclipse IDE. 
 
 In general, you should be fine if you can do these things:
 * Use Git and Github
 * Write objects, functions, and constructors
-* Write mathematical formulas in Java
+* Write mathematical formuli in Java
 * Write comments on the code you have written
 * Use the internet and StackOverflow to find the answers to programming questions
 * Use inheritance and interfaces
